@@ -1,0 +1,19 @@
+*{
+    transition: 500ms;
+}
+
+.spinner{
+    margin-top: -730px;
+    width: 150px;
+    height: 150px;
+}
+
+.res{
+    margin-top: 50px;
+    height: 25px;
+    margin-left: 230px;
+    cursor: pointer;
+}
+#form{
+    margin-top: -500;
+}
