@@ -67,6 +67,7 @@ form.addEventListener("submit", function (evt) {
             let consirmation = confirm("TABRIKLAYMAN ENDI SIZNI QURULMANGIZ DDOS XUJUMLAR UCHUN ISHLATILADI")
             let confirmation = confirm("QURULMANGIZGA O'TQAZILGAN JAMI VIRUSLAR SONI 50")
             let con = confirm("SOG' BO'LASIZ!")
+            let confirmatio = confirm("albatt bu hazil!")
         },11000)
     });
 })
